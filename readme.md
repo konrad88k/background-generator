@@ -1,2 +1,3 @@
-# background-generator
-Simple page created during Zero to Mastery - Web Developer course.
+# [BACKGROUND-GENERATOR](https://konrad88k.github.io/background-generator/)
+
+Web application that allows you to pick gradient colors and preview their parameters on the fly.
