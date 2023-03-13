@@ -20,7 +20,7 @@ body {
     height: 50%;
     width: calc(100% - 3rem);
     margin: 1.5rem;
-    background: linear-gradient(to right, #09ECE8 , #ED0CDB);
+    background: linear-gradient(to right, #00C7A6 , #9500A8);
     border: 1px solid rgb(126, 126, 126);
     border-radius: 0.5rem;
 }
@@ -48,7 +48,7 @@ h1 {
 	background-origin: border-box;
 	/* background-clip: content-box, border-box; */
 	background-size: cover;
-	background-image: linear-gradient(to right, #09ECE8, #ED0CDB);
+	background-image: linear-gradient(to right, #00C7A6, #9500A8);
     border-radius: 2rem;
 }
 
